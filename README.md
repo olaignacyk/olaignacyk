@@ -7,4 +7,4 @@
 - 💬 I am interested in Data Bases and Machine Learning.
 - [WEBSITE:](https://olaignacyk.github.io/)
 - 📫 How to reach me: ola.ignacyk@gmail.com
-- [Link to fork repository:](https://github.com/olaignacyk/axcell_fork)
+
